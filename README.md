@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am inexperienced at coding, but I want to learn more. 
-- 🌱 I’m currently learning how to build a website for my future research lab. 
+I’m currently learning how to build a website for my future research lab. 
 
 <!--
 **FlyBrainz/FlyBrainz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
